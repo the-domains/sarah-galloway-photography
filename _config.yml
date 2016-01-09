@@ -1,0 +1,28 @@
+name: Sarah Galloway Photography
+favicon: null
+layout_spectrum: 0.42161638708785176
+typography_spectrum: 0.3213784664403647
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.42672622855752707
+  lightness: 0.39864954678341746
+  saturation: 0.3921287988778204
+  rhythmicContrast: 0.3265076365787536
+purpose: []
