@@ -1,28 +1,40 @@
-name: Sarah Galloway Photography
-favicon: null
 layout_spectrum: 0.50663
-typography_spectrum: 0.67634
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#1d1419'
-    - '#cbafac'
-    - '#a3777a'
-    - '#c30049'
-  brandStrength: 0
-  lightness: 0.8125
-  saturation: 0.9375
-  rhythmicContrast: 0.5
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.9375
+  lightness: 0.8125
+  brandStrength: 0
+  brandColors:
+    - '#000000'
+    - '#E1E1E1'
+    - '#BFC0C4'
+    - '#888888'
+    - '#5C5C5C'
+  rhythmicContrast: 0.5
+typography_spectrum: 0.67634
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Sarah Galloway Photography
