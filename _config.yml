@@ -1,8 +1,7 @@
-layout_spectrum: 0.50663
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: Sarah Galloway Photography
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.67634
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.9375
-  lightness: 0.8125
-  brandStrength: 0
   brandColors:
     - '#000000'
     - '#E1E1E1'
     - '#BFC0C4'
     - '#888888'
     - '#5C5C5C'
+  brandStrength: 0
+  lightness: 0.8125
+  saturation: 0.9375
   rhythmicContrast: 0.5
-typography_spectrum: 0.67634
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Sarah Galloway Photography
+purpose: []
